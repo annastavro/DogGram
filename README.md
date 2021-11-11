@@ -1,7 +1,9 @@
 DogGram application works and looks a lot like Instagram. 
 
 I used SwiftUI as the front end to create the scenes, and Google Firebase as the back end to store the app data.
+
 This is a full app where users can actually sign in and create accounts.
+
 The app has a feed page where users can like and comment on each other posts,
 has a browse page where users can discover new posts,
 has a tab to upload posts to the database,
